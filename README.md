@@ -1,2 +1,3 @@
 # Data-science_journey
-this is my first git repository
+This is My First Git Repository
+Author_ Talha Khan
